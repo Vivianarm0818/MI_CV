@@ -1,0 +1,35 @@
+body {
+    background-color:whitesmoke;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.image-profile {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.datos{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.skills {
+        text-align:left;
+        padding-top: 10px; /* Add top padding */
+        padding-bottom: 10px; /* Add bottom padding */
+        color: black;
+}
+
+.Hubspot {width: 80%; background-color: #04AA6D; color: aliceblue;}
+
+.GoogleAds {width: 60%; background-color: #2196F3; color: aliceblue;}
+
+.SheetsDocs {width: 85%; background-color: #808080; color: aliceblue;}
